@@ -1,5 +1,11 @@
 import java.util.Scanner;
 
+/**
+ *
+ * @author Zahri
+ * Program ini bertujuan untuk melakukan perhitungan gaji pegawai dengan kriteria tertentu sebagaimana dalam soal.
+ */
+
 public class Soal4_w3 {
 
     public static void main(String[] args) {
@@ -21,7 +27,7 @@ public class Soal4_w3 {
              }
         }
  }
- 33
+ 
 
         
 
