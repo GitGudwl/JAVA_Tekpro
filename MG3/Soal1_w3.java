@@ -1,4 +1,12 @@
 import java.util.*;
+
+
+/**
+ *
+ * @author Zahri
+ * Program ini bertujuan untuk menghitung sejumlah string, yang dipisahkan melalui beberapa character, kemudian menampilkannya lagi di layar.
+ */
+
 public class Soal1_w3{
 
     public static void main(String[] args) {
