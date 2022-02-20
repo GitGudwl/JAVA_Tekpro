@@ -1,6 +1,7 @@
 /**
  *
- * @author Zahri AL Adzani Hidayat
+ * @author Zahri
+ * Program ini bertujuan untuk menampilkan array dengan kriteria seperti di soal no.7
  */
 public class Soal7_w3 {
     public static void main(String[] args) {
