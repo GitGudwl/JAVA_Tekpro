@@ -3,7 +3,7 @@ import java.io.*;
 /**
  *
  * @author Zahri
- * Program ini bertujuan untuk meningkatkan kemampuan dalam menggunakan syntax printf
+ * Program ini bertujuan untuk melakukan print dengan kriteria tertentu menggunakan fungsi printf
  */
 
 public class Soal2_w3 {
@@ -26,9 +26,3 @@ public class Soal2_w3 {
         }
 }
             
-// Lesson Learn //
-
-/* Lesson learn yang saya dapatkan dalam mengerjakan soal ini adalah
- * saya jadi tau bagaimana cara menggunakan input dalam bahasa java, serta pengolahan array juga
- * pemahaman akan penggunaan syntax printf juga ditingkatkan dalam program ini, dimana saya bisa lebih mengetahui fungsi dari printf di bahasa java
- */
