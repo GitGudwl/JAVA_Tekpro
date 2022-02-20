@@ -30,10 +30,3 @@ public class soal3_w3 {
     
 }
 
-// Lesson Learn //
-
-/* Lesson learn yang saya dapatkan dalam mengerjakan soal ini adalah
- * saya jadi tau bagaimana cara menginput data bertripe char
- * karena pada bahasa java tidak ada perintah nextChar, maka perintah tersebut
- diubah menjadi next().charAt(0).
- */
