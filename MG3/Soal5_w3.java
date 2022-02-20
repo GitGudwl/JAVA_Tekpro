@@ -1,10 +1,24 @@
 import java.math.*;
 import java.util.*;
 
+/**
+ *
+ * @author Zahri
+ * Program ini bertujuan untuk melakukan penggabungan 4 buah variabel integer, dengan tujuan untuk melakukan pengolahan guna menentukan system buka tutup jalan.
+ */
+
 public class Soal5_w3 {
 
     static long gabung(int a, int b,int c, int d)
     {
+        /**
+* metoda ini berguna untuk menggabungkan 4 buah integer
+* @param a adalah parameter pertama.
+* @param b adalah parameter kedua.
+* @param c adalah parameter ketiga.
+* @param d adalah parameter keempat.
+* @return long untuk mengembalikan nilai berupa long.
+*/
  
         // convert integer ke string
         String s1 = Integer.toString(a);
@@ -18,7 +32,7 @@ public class Soal5_w3 {
         // Convert gabungan string ke long
         long gabung = Long.parseLong(s);
  
-        // return the formed integer
+        // mengembalikan nilai long hasil penggabungan
         return gabung;
     }
 
