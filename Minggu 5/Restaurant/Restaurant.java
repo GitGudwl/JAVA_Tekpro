@@ -5,7 +5,7 @@ public class Restaurant {
 
 
 
-    public Restaurant() {
+    public Restaurant() { //menginisialisasi data makanan dengan data dummy
         foods = new makanan[10];
         for(int i=0; i<10; i++){
             foods[i]=new makanan("kosong", 0.0,0);
