@@ -1,7 +1,7 @@
-public class makanan {// Membuat class baru sehingga tidak terdapat banyak data pada class Restaurant
+public class makanan {// Membuat new class agar class restaurant tidak terlalu banyak data
     private String nama_makanan;   //
     private double harga_makanan; // Menerapkan Class Design No. 1
-    private int Stock;             // Menjaga data agar tetap private
+    private int Stock;             // Menjaga encapsulation
 
     public String getNama_makanan() {
         return nama_makanan;
