@@ -1,4 +1,10 @@
 class Employee extends Sortable {
+    private String name;
+    private double salary;
+    private int hireday;
+    private int hiremonth;
+    private int hireyear;
+
     public Employee(String n, double s, int day, int month, int year) {
         name = n;
         salary = s;
@@ -13,15 +19,13 @@ class Employee extends Sortable {
         if (salary>eb.salary) return +1;
         return 0;
         }
-    
-       
-
-
-
-
 
     public void print() {
         System.out.println(name + " " + salary + " " + hireYear());
+    }
+
+    public double getSalary(){
+        return salary;
     }
 
     public void raiseSalary(double byPercent) {
@@ -32,9 +36,5 @@ class Employee extends Sortable {
         return hireyear;
     }
 
-    private String name;
-    private double salary;
-    private int hireday;
-    private int hiremonth;
-    private int hireyear;
+
 }
