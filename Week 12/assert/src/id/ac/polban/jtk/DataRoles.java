@@ -148,7 +148,6 @@ class EngineerTools {
         "Tableau", "MongoDB", "ElasticSearch",
         "Spark", "TensorFlow", "PyTorch"));
     this.DataOpsTools = new ArrayList<>(Arrays.asList("Docker", "Kubernetes", "OpenShift"));
-    this.DataOpsTools = new ArrayList<>(Arrays.asList("panda"));
     // this.DataOpsTools = new ArrayList<>(Arrays.asList("Pandas"));
   }
 
