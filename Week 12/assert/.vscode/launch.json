@@ -24,7 +24,6 @@
             "request": "launch",
             "mainClass": "DataRoles",
             "projectName": "assert_74a0085f",
-            "vmArgs": "-enableassertions"
         }
     ]
 }
